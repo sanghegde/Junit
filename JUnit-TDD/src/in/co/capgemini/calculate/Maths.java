@@ -1,3 +1,4 @@
+//class math which includes the all operations of the calculator
 package in.co.capgemini.calculate;
 
 public class Maths {
